@@ -22,10 +22,12 @@ Computational Phase contrast microscopy using red-blue led light  usb camera inp
 
 
 ## What You Need
-* An industrial USB camera (UVC compatible)
-* Red and blue illumination setup
+* An industrial USB camera on the microscope
+* Red and blue illumination setup - RGB LED puck light for example
+* a diffusor on the LED - I used folded plastic sandwich bag
 * Python 3 installed on your computer
 
+Install Python libaries in case of Windows 
 import cv2
 import numpy as np
 from datetime import datetime
