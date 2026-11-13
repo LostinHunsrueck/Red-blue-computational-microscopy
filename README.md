@@ -27,12 +27,12 @@ Computational Phase contrast microscopy using red-blue led light  usb camera inp
 * a diffusor on the LED - I used folded plastic sandwich bag
 * Python 3 installed on your computer
 
-Install Python libaries in case of Windows 
-import cv2
-import numpy as np
-from datetime import datetime
-import os
-import sys
+Install Python libraries in case of Windows,
+import cv2, 
+import numpy as np, 
+from datetime import datetime,
+import os,
+import sys,
 
 ## How to Run
 1. Download this repository (click the green **Code** button -> **Download ZIP**).
