@@ -31,6 +31,39 @@ Install Python libraries in case of Windows,
 import cv2, 
 import numpy as np, 
 from datetime import datetime,
+
+# Red-Blue Computational Microscopy
+
+Computational phase-contrast microscopy using red-blue illumination, a USB camera input, and Python/OpenCV on a standard microscope.
+
+![Super-Resolution / Phase Capture](superres_2026-10-15_22-54-50.png)
+
+## Example Captures
+
+| Capture 1 | Capture 2 | Capture 3 |
+| :---: | :---: | :---: |
+| ![Capture 1](capture_2026-05-17_18-14-55.png) | ![Capture 2](capture_2026-07-02_21-17-16.png) | ![Capture 3](capture_2026-07-02_21-17-20.png) |
+
+## How It Works
+* **Red-Blue Illumination:** Uses directional red and blue light sources to capture phase gradients across transparent microscopic specimens.
+* **Real-Time Processing:** Reads a live USB microscope camera feed in Python (`Phase_Live_ViewEmboss41.py`) and computes embossed/phase-contrast views with adjustable intensity cutoffs.
+* **Standard Microscope Compatible:** Upgrades a regular brightfield microscope into a computational phase-contrast setup without expensive optical hardware.
+
+## Quick Start
+1. **Install dependencies:**
+   ```bash
+   pip install opencv-python numpy
+   ```
+2. **Run the live view script:**
+   ```bash
+   python Phase_Live_ViewEmboss41.py
+   ```
+
+## Files in This Repository
+* `Phase_Live_ViewEmboss41.py` — Main Python script for live red-blue computational phase contrast.
+* `record_mode1_2026-06-04_11-00-29.wmv` — Sample recorded microscope video feed.
+* `superres_2026-10-15_22-54-50.png` & `capture_*.png` — Example processed microscope captures.
+
 import os,
 import sys,
 
