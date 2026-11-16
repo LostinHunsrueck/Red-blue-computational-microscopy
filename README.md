@@ -5,6 +5,8 @@ Computational phase-contrast microscopy using red-blue LED illumination, a USB c
 ## Publication & Theory
 For optical theory and methodology, see the accompanying paper:
 * **[Dual-Wavelength Phase Contrast Using RGB Channel Differencing (PDF)](Phase%20Contrast%20Using%20RGB%20Channel%20DifferencingMay2026.pdf)** — *Jan de Jong (2026)*
+🎥 **Video Demo:** [Watch Living Onion Epidermis (*Allium cepa*) Cytoplasm on YouTube](https://www.youtube.com/watch?v=Ga1p1tmAX3w) *(60x objective)*
+
 
 ## Controls
 
