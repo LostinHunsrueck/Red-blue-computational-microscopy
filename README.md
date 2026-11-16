@@ -1,5 +1,10 @@
 # Red-blue-computational-microscopy
-Computational Phase contrast microscopy using red-blue led light  usb camera input python openCV on normal microscope
+
+Computational phase-contrast microscopy using red-blue LED illumination, a USB camera input, and Python/OpenCV on a standard brightfield microscope.
+
+## Publication & Theory
+For optical theory and methodology, see the accompanying paper:
+* **[Dual-Wavelength Phase Contrast Using RGB Channel Differencing (PDF)](Phase%20Contrast%20Using%20RGB%20Channel%20DifferencingMay2026.pdf)** — *Jan de Jong (2026)*
 
 ## Controls
 
@@ -32,9 +37,7 @@ import cv2,
 import numpy as np, 
 from datetime import datetime,
 
-# Red-Blue Computational Microscopy
 
-Computational phase-contrast microscopy using red-blue illumination, a USB camera input, and Python/OpenCV on a standard microscope.
 
 ![Super-Resolution / Phase Capture](superres_2026-10-15_22-54-50.png)
 
