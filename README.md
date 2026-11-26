@@ -8,6 +8,11 @@ For optical theory and methodology, see the accompanying paper:
 * 🎥 **Video Demo:** [Watch Living Onion Epidermis (*Allium cepa*) Cytoplasm on YouTube](https://www.youtube.com/watch?v=Ga1p1tmAX3w) *(60x objective)*
 
 
+No Python installation required—download and run the standalone Windows executable directly from the latest release:
+
+* **[Download Windows Executable (`PointCLoud-ver100.exe`)](https://github.com)** — *(Note: Place the `.exe` in a normal user folder such as `Desktop` or `Documents` so Windows allows saving PNG screenshots.)*
+* **[View All Releases & Release Notes](https://github.com)**
+
 ## Controls
 
 | Key | Action |
