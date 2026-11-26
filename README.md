@@ -10,8 +10,8 @@ For optical theory and methodology, see the accompanying paper:
 
 No Python installation required—download and run the standalone Windows executable directly from the latest release:
 
-* **[Download Windows Executable (`PointCLoud-ver100.exe`)](https://github.com)** — *(Note: Place the `.exe` in a normal user folder such as `Desktop` or `Documents` so Windows allows saving PNG screenshots.)*
-* **[View All Releases & Release Notes](https://github.com)**
+* **[Download Windows Executable (`PointCLoud-ver100.exe`)]([https://github.com](https://github.com/LostinHunsrueck/Red-blue-computational-microscopy/releases/tag/pre-release))** — *(Note: Place the `.exe` in a normal user folder such as `Desktop` or `Documents` so Windows allows saving PNG screenshots.)*
+* **[View All Releases & Release Notes]([https://github.com](https://github.com/LostinHunsrueck/Red-blue-computational-microscopy/releases/tag/pre-release))**
 
 ## Controls
 
