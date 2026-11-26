@@ -7,11 +7,16 @@ For optical theory and methodology, see the accompanying paper:
 * **[Dual-Wavelength Phase Contrast Using RGB Channel Differencing (PDF)](Phase%20Contrast%20Using%20RGB%20Channel%20DifferencingMay2026.pdf)** — *Jan de Jong (2026)*
 * 🎥 **Video Demo:** [Watch Living Onion Epidermis (*Allium cepa*) Cytoplasm on YouTube](https://www.youtube.com/watch?v=Ga1p1tmAX3w) *(60x objective)*
 
+## Quick Start (Windows Executable)
 
 No Python installation required—download and run the standalone Windows executable directly from the latest release:
 
-* **[Download Windows Executable (`PointCLoud-ver100.exe`)]([https://github.com](https://github.com/LostinHunsrueck/Red-blue-computational-microscopy/releases/tag/pre-release))** — *(Note: Place the `.exe` in a normal user folder such as `Desktop` or `Documents` so Windows allows saving PNG screenshots.)*
+* **[Download Windows Executable (`PointCLoud-ver100.exe`)]([https://github.co](https://github.com/LostinHunsrueck/Red-blue-computational-microscopy/releases/tag/pre-release)m)** — *(Note: Place the `.exe` in a normal user folder such as `Desktop` or `Documents` so Windows allows saving PNG screenshots.)*
 * **[View All Releases & Release Notes]([https://github.com](https://github.com/LostinHunsrueck/Red-blue-computational-microscopy/releases/tag/pre-release))**
+
+No Python installation required—download and run the standalone Windows executable directly from the latest release:
+
+
 
 ## Controls
 
